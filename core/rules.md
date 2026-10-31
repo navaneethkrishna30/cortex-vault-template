@@ -1,6 +1,6 @@
 # Rules
 
-1. Memory is the summary; follow [[links]] only when the task needs more. Max 2 hops.
+1. Memory is the summary; follow links only when the task needs more. Max 2 hops.
 2. One fact, one place. Never copy a fact into another note; link to it.
 3. The thing that moves owns the relation. Use only the relation types in core/relations.md.
 4. When a fact changes, use update or supersede. Never create a second note on the same subject.
