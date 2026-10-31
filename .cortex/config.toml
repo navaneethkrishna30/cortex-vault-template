@@ -1,0 +1,5 @@
+# Set provider = "voyage" with model = "voyage-4-large" and VOYAGE_API_KEY to use Voyage.
+# After changing the model, run: cortex index --rebuild
+[embedding]
+provider = "fastembed"
+model = "BAAI/bge-small-en-v1.5"
