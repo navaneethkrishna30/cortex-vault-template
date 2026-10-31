@@ -40,3 +40,7 @@ The examples show the note formats before you delete them:
 - [`docs/example-plan.md`](docs/example-plan.md): a longer doc
 
 Search settings live in [`.cortex/config.toml`](.cortex/config.toml). Notes are embedded locally by default, and the file explains how to switch to Voyage.
+
+## License
+
+[MIT](LICENSE)
